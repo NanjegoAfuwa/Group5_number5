@@ -1,0 +1,52 @@
+div{
+  position: fixed;  
+  top: 0;
+  background-color: rgb(163, 165, 42);
+  word-spacing: 10px;
+  margin-left: 13cm;
+  
+}
+h2{
+    font-style: oblique;
+    color: black;
+    margin-left:7cm;
+}
+
+
+.image{ width:20cm;
+        height: 20cm;
+        margin:  0 auto;
+        display: block;
+        border-radius: 50%;
+}
+h4{
+    font-style: italic;
+    font-size: large;
+    margin-left: 18cm;
+}
+h3{
+    font-size: x-large;
+    margin-left: 10cm;
+}
+body{
+    background-color:whitesmoke;
+
+}
+
+h5{
+    font-size: x-large;
+    margin-left:7cm ;
+
+}
+.container {
+    width: 30cm; 
+    height: 63cm; 
+    background-color:rgb(35, 231, 205);
+    margin-left:10cm ;
+  }
+
+ h6{
+    font-size: xx-large;
+    color:rgb(141, 143, 47);
+    margin-left: 7cm;
+ } 
